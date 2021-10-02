@@ -1,0 +1,14 @@
+body{
+   text-align: center;
+   align-items: center;
+   font-size: 30px; 
+   background-color: blueviolet;
+}
+
+
+
+img{
+    width: 500px;
+    height: 600px;
+    transform: scale(0.9);
+}
